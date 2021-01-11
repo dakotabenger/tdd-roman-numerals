@@ -1,0 +1,7 @@
+split by charachter
+map over charachters and change their value
+loop over that list and create a new list with the right numbers to add 
+(check if next element is larger if it is then subtract the smaller number from the larger number and append it to the new list,
+and skip the next iteration else put  )
+reduce down by adding all the elements
+return that total
